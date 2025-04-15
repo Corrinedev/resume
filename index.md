@@ -5,9 +5,12 @@ date: 2025-04-15
 
 ### Basic Info
 > Corbin Smith
-	Texas, United States
-	Timezone CDT (GMT-5)
-	corbinsmithtx21@gmail.com
+> 
+> Texas, United States
+> 
+> Timezone CDT (GMT-5)
+> 
+> corbinsmithtx21@gmail.com
 
   
 
@@ -87,7 +90,10 @@ Rank: 86
 
 ## References  
 
- >Cynthia Carnes
-Gifted and Talented Teacher
-Joe Straus III Middle School
-[cynthia.carnes@nisd.net](mailto:cynthia.carnes@nisd.net)
+> Cynthia Carnes
+> 
+> Gifted and Talented Teacher
+> 
+> Joe Straus III Middle School
+> 
+> [cynthia.carnes@nisd.net](mailto:cynthia.carnes@nisd.net)
