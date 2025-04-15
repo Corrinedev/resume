@@ -10,7 +10,7 @@ date: 2025-04-15
 > 
 > Timezone CDT (GMT-5)
 > 
-> corbinsmithtx21@gmail.com
+> [corbinsmithtx21@gmail.com](mailto:corbinsmithtx21@gmail.com)
 
   
 
