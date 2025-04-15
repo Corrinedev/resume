@@ -1,5 +1,8 @@
 ---
-title: Corbin Smith
+title: "Resume | Corbin Smith"
+date: 2025-04-15
 ---
-# Resume
+### Resume
+---
+Test Resume Page
 
