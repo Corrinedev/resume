@@ -64,9 +64,11 @@ Rank: 86
 
 ## Community Service
 
-- Chick-Fil-A Service @ Disciple Community Church < 2021 - Present
+- Chick-Fil-A Service @ Disciple Community Church < 2024
 
-- World’s Finest Chocolate GT Fundraiser < 2021 - Present 
+- World’s Finest Chocolate GT Fundraiser < 2022
+  
+- Yard Work Service | DCC Youth Group < 4/16/2025
 
 ## Awards/Honors
 
